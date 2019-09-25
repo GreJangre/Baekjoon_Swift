@@ -7,3 +7,12 @@
 //
 
 import Foundation
+
+var a = readLine()
+var b = readLine()
+
+if let a = a {
+    if let b = b {
+        print(Int(a)! + Int(b)!)
+    }
+}
