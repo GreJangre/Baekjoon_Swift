@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		27BD4B36233DEDB1008AF8D3 /* 10171.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BD4B35233DEDB1008AF8D3 /* 10171.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		277DFC01233AEC1E00175B5B /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -28,6 +32,7 @@
 		277DFC18233AF80A00175B5B /* 2577.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2577.swift; sourceTree = "<group>"; };
 		27B6B86F233B30810066CA93 /* 1152.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1152.swift; sourceTree = "<group>"; };
 		27BD4B33233DEBBD008AF8D3 /* 2920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2920.swift; sourceTree = "<group>"; };
+		27BD4B35233DEDB1008AF8D3 /* 10171.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10171.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +73,7 @@
 				277DFC18233AF80A00175B5B /* 2577.swift */,
 				27B6B86F233B30810066CA93 /* 1152.swift */,
 				27BD4B33233DEBBD008AF8D3 /* 2920.swift */,
+				27BD4B35233DEDB1008AF8D3 /* 10171.swift */,
 			);
 			path = Baekjoon_Swift;
 			sourceTree = "<group>";
@@ -131,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27BD4B36233DEDB1008AF8D3 /* 10171.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
